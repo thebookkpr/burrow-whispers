@@ -1,0 +1,22 @@
+/* footer.css — reusable Burrow Whispers footer styles */
+
+.footer {
+  margin-top: 2.5rem;       /* spacing from last paragraph */
+  text-align: center;
+  font-size: 0.9rem;        /* small, like Winter Stories page */
+  color: #6b6258;           /* gentle muted brown */
+}
+
+.footer a {
+  color: #6b6258;           
+  text-decoration: none;     /* no underline by default */
+}
+
+.footer a:visited {
+  color: #6b6258;           /* prevent visited link color change */
+}
+
+.footer a:hover {
+  text-decoration: underline; /* subtle underline only on hover */
+}
+
