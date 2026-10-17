@@ -1,0 +1,20 @@
+.header {
+  background-color: #f6f2eb; /* same as body for warm tone */
+  padding: 2rem 0 1.5rem;
+  text-align: center;
+  border-bottom: 1px solid #e2dcd2; /* subtle separation from body */
+}
+
+.header h1 {
+  font-size: 2.4rem;
+  font-weight: normal;
+  margin: 0;
+  color: #2f2a26;
+}
+
+.header .subtitle {
+  font-style: italic;
+  font-size: 1.2rem;
+  color: #5b5349;
+  margin-top: 0.5rem;
+}
